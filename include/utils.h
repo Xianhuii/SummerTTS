@@ -15,7 +15,7 @@
 
 #include<fcntl.h>
 #include"sys/stat.h"
-
+#include <cstdint>
 using std::cout;
 using std::cerr;
 using std::endl;

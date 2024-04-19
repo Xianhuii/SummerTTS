@@ -4,7 +4,7 @@
 #include <string>
 #include <map>
 #include <vector>
-
+#include <cstdint>
 using namespace std;
 
 class hanzi2phoneid

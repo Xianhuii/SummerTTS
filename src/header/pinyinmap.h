@@ -4,7 +4,7 @@
 #include <vector>
 #include <string>
 #include <map>
-
+#include <cstdint>
 using namespace std;
 
 multimap<string, vector<string> > initPinyin2Phone();
